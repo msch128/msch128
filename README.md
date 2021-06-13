@@ -2,4 +2,3 @@
 - 👀 I am interested in turning ideas into reality and building companies and leading them to success
 - 🌱 I’m currently learning all the stuff i did not know untill now. If its a Language, or just how to do taxes without an advisor.. 
 - 💞️ I’m looking to collaborate on cool php related projects or anything regarding web development
-- 
