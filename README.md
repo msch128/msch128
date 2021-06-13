@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @msch128
+- 👀 I’m interested in Realize ideas and grow businesses
+- 🌱 I’m currently learning all the stuff i did not know untill now. If its a Language, or just how to do taxes without an advisor.. 
+- 💞️ I’m looking to collaborate on cool php related projects or anything regarding web development
