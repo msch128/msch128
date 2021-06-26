@@ -1,4 +1,4 @@
-- 👋 Hi, I'm @msch128 - freelance web developer and part time businessman and entrepreneur.
-- 👀 I am interested in turning ideas into reality and building companies and leading them to success
-- 🌱 I’m currently learning all the stuff i did not know untill now. If its a language, or just how to do taxes without an advisor.. 
+- 👋 Hi, I'm @msch128 - freelance web developer and entrepreneur.
+- 👀 I’m interested in turning ideas into reality, building companies and leading them to success
+- 🌱 I’m currently learning all the stuff i did not know untill now. If its a language, or just how to do taxes without an advisor (or how to pay less..) 
 - 💞️ I’m looking to collaborate on cool web development projects or anything regarding IT and IT-infrastructure
