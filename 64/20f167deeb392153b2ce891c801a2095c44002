@@ -1,0 +1,21 @@
+.github/workflows/galaxy-stats.yml
+  s_77c0fe299a7b50::t_4c1a34d446c2f3 19
+README.md
+  s_77c0fe299a7b50::t_9da27d3a88e744 19-20,66-67
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "6420f167deeb392153b2ce891c801a2095c44002",
+  "prompts": {},
+  "sessions": {
+    "s_77c0fe299a7b50": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "538d7c09-d799-4bc7-855c-d5cf2e564ed1",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Marius Schröder <git@schroeder.systems>"
+    }
+  }
+}
