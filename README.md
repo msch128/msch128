@@ -16,6 +16,8 @@ status:
   phase: Running
 ```
 
+<img src="https://raw.githubusercontent.com/msch128/msch128/galaxy-stats/kubectl.svg" alt="kubectl top engineer marius: active repositories as containers" width="100%">
+
 ### 🔨 What I'm building
 
 **In the open**
@@ -61,5 +63,5 @@ status:
 
 ### 📈 Lately
 
-<!-- metrics.svg is generated daily by .github/workflows/metrics.yml (lowlighter/metrics): isometric contribution calendar, languages, recent activity -->
-<img src="https://raw.githubusercontent.com/msch128/msch128/output/metrics.svg" alt="Isometric contribution calendar, most used languages and recent activity" width="100%">
+<!-- Cards are rendered daily by .github/workflows/galaxy-stats.yml (https://github.com/msch128/galaxy-stats) -->
+<img src="https://raw.githubusercontent.com/msch128/msch128/galaxy-stats/galaxy.svg" alt="Galaxy: repositories of the last 12 months as star systems" width="100%">
