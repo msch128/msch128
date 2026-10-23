@@ -1,0 +1,14 @@
+.github/workflows/galaxy-stats.yml
+  h_0ff4f4713441f4 19
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "004b9cd798e20d4f730bd3c66f3b98ce6aa8cac9",
+  "prompts": {},
+  "humans": {
+    "h_0ff4f4713441f4": {
+      "author": "Marius Schröder <git@schroeder.systems>"
+    }
+  }
+}
