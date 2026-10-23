@@ -1,0 +1,19 @@
+.github/workflows/metrics.yml
+  s_77c0fe299a7b50::t_f902bd4476190c 18
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bafbee419d847fd517c6a35511316ee943ccfa70",
+  "prompts": {},
+  "sessions": {
+    "s_77c0fe299a7b50": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "538d7c09-d799-4bc7-855c-d5cf2e564ed1",
+        "model": "unknown"
+      },
+      "human_author": "Marius Schröder <git@schroeder.systems>"
+    }
+  }
+}
