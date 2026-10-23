@@ -1,0 +1,24 @@
+name: galaxy-stats
+
+# Renders the profile cards (msch128/galaxy-stats) once a day and on demand.
+# The SVG files are published to the `galaxy-stats` branch, which the README embeds.
+on:
+  schedule:
+    - cron: "17 4 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  render:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - uses: msch128/galaxy-stats@14121e8953fcfcbc6eaa79ac39d8e8ef2ed30705 # v1.0.0
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          cards: kubectl,galaxy
+          display-name: marius
+          timezone: Europe/Berlin
